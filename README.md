@@ -129,7 +129,7 @@ Nuestra línea: **ciencia con responsabilidad**. Nada de cifras espectaculares s
 
 ---
 
-## Cronograma sugerido (10 semanas)
+## Cronograma sugerido
 **1–2** Gobernanza de datos y diccionario • **3–4** ETL + geodatos • **5–6** Directo + FH + ML • **7–8** ELL + ensamble • **9** Auditoría + mapas • **10** Informe/README final.
 
 ---
