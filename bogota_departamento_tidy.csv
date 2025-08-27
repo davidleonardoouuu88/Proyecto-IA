@@ -1,0 +1,106 @@
+region,variable_label,nivel,year,value,variable_code,unidad
+Bogotá,Analfabetismo,Departamento,2018,1.6,analfabetismo,porcentaje
+Bogotá,Bajo logro educativo,Departamento,2018,18.6,bajo_logro_educativo,porcentaje
+Bogotá,Barreras a servicios para cuidado de la primera infancia,Departamento,2018,9.4,cuidado_primera_infancia,porcentaje
+Bogotá,Barreras de acceso a servicios de salud,Departamento,2018,1.2,barreras_acceso_salud,porcentaje
+Bogotá,Desempleo de larga duración,Departamento,2018,12.8,desempleo_larga_duracion,porcentaje
+Bogotá,Hacinamiento crítico,Departamento,2018,5.3,hacinamiento_critico,porcentaje
+Bogotá,Inadecuada eliminación de excretas,Departamento,2018,0.4,excretas_inadecuadas,porcentaje
+Bogotá,Inasistencia escolar,Departamento,2018,1.4,inasistencia_escolar,porcentaje
+Bogotá,Material inadecuado de paredes exteriores,Departamento,2018,0.2,paredes_inadecuadas,porcentaje
+Bogotá,Material inadecuado de pisos,Departamento,2018,0.0,pisos_inadecuados,porcentaje
+Bogotá,Rezago escolar,Departamento,2018,21.2,rezago_escolar,porcentaje
+Bogotá,Sin acceso a fuente de agua mejorada,Departamento,2018,0.4,sin_agua_mejorada,porcentaje
+Bogotá,Sin aseguramiento en salud,Departamento,2018,12.6,sin_aseguramiento_salud,porcentaje
+Bogotá,Trabajo infantil,Departamento,2018,0.6,trabajo_infantil,porcentaje
+Bogotá,Trabajo informal,Departamento,2018,52.7,trabajo_informal,porcentaje
+Bogotá,Analfabetismo,Departamento,2019,2.0,analfabetismo,porcentaje
+Bogotá,Bajo logro educativo,Departamento,2019,21.9,bajo_logro_educativo,porcentaje
+Bogotá,Barreras a servicios para cuidado de la primera infancia,Departamento,2019,8.3,cuidado_primera_infancia,porcentaje
+Bogotá,Barreras de acceso a servicios de salud,Departamento,2019,10.3,barreras_acceso_salud,porcentaje
+Bogotá,Desempleo de larga duración,Departamento,2019,12.3,desempleo_larga_duracion,porcentaje
+Bogotá,Hacinamiento crítico,Departamento,2019,6.5,hacinamiento_critico,porcentaje
+Bogotá,Inadecuada eliminación de excretas,Departamento,2019,0.0,excretas_inadecuadas,porcentaje
+Bogotá,Inasistencia escolar,Departamento,2019,1.0,inasistencia_escolar,porcentaje
+Bogotá,Material inadecuado de paredes exteriores,Departamento,2019,0.3,paredes_inadecuadas,porcentaje
+Bogotá,Material inadecuado de pisos,Departamento,2019,0.1,pisos_inadecuados,porcentaje
+Bogotá,Rezago escolar,Departamento,2019,23.0,rezago_escolar,porcentaje
+Bogotá,Sin acceso a fuente de agua mejorada,Departamento,2019,0.1,sin_agua_mejorada,porcentaje
+Bogotá,Sin aseguramiento en salud,Departamento,2019,13.5,sin_aseguramiento_salud,porcentaje
+Bogotá,Trabajo infantil,Departamento,2019,0.5,trabajo_infantil,porcentaje
+Bogotá,Trabajo informal,Departamento,2019,54.0,trabajo_informal,porcentaje
+Bogotá,Analfabetismo,Departamento,2020,2.4,analfabetismo,porcentaje
+Bogotá,Bajo logro educativo,Departamento,2020,23.3,bajo_logro_educativo,porcentaje
+Bogotá,Barreras a servicios para cuidado de la primera infancia,Departamento,2020,7.2,cuidado_primera_infancia,porcentaje
+Bogotá,Barreras de acceso a servicios de salud,Departamento,2020,2.9,barreras_acceso_salud,porcentaje
+Bogotá,Desempleo de larga duración,Departamento,2020,13.2,desempleo_larga_duracion,porcentaje
+Bogotá,Hacinamiento crítico,Departamento,2020,6.4,hacinamiento_critico,porcentaje
+Bogotá,Inadecuada eliminación de excretas,Departamento,2020,0.5,excretas_inadecuadas,porcentaje
+Bogotá,Inasistencia escolar,Departamento,2020,6.0,inasistencia_escolar,porcentaje
+Bogotá,Material inadecuado de paredes exteriores,Departamento,2020,0.7,paredes_inadecuadas,porcentaje
+Bogotá,Material inadecuado de pisos,Departamento,2020,1.0,pisos_inadecuados,porcentaje
+Bogotá,Rezago escolar,Departamento,2020,22.6,rezago_escolar,porcentaje
+Bogotá,Sin acceso a fuente de agua mejorada,Departamento,2020,0.6,sin_agua_mejorada,porcentaje
+Bogotá,Sin aseguramiento en salud,Departamento,2020,16.9,sin_aseguramiento_salud,porcentaje
+Bogotá,Trabajo infantil,Departamento,2020,0.6,trabajo_infantil,porcentaje
+Bogotá,Trabajo informal,Departamento,2020,59.8,trabajo_informal,porcentaje
+Bogotá,Analfabetismo,Departamento,2021,1.8,analfabetismo,porcentaje
+Bogotá,Bajo logro educativo,Departamento,2021,20.6,bajo_logro_educativo,porcentaje
+Bogotá,Barreras a servicios para cuidado de la primera infancia,Departamento,2021,6.6,cuidado_primera_infancia,porcentaje
+Bogotá,Barreras de acceso a servicios de salud,Departamento,2021,3.4,barreras_acceso_salud,porcentaje
+Bogotá,Desempleo de larga duración,Departamento,2021,16.2,desempleo_larga_duracion,porcentaje
+Bogotá,Hacinamiento crítico,Departamento,2021,6.4,hacinamiento_critico,porcentaje
+Bogotá,Inadecuada eliminación de excretas,Departamento,2021,1.0,excretas_inadecuadas,porcentaje
+Bogotá,Inasistencia escolar,Departamento,2021,2.9,inasistencia_escolar,porcentaje
+Bogotá,Material inadecuado de paredes exteriores,Departamento,2021,0.9,paredes_inadecuadas,porcentaje
+Bogotá,Material inadecuado de pisos,Departamento,2021,0.5,pisos_inadecuados,porcentaje
+Bogotá,Rezago escolar,Departamento,2021,20.9,rezago_escolar,porcentaje
+Bogotá,Sin acceso a fuente de agua mejorada,Departamento,2021,0.9,sin_agua_mejorada,porcentaje
+Bogotá,Sin aseguramiento en salud,Departamento,2021,11.6,sin_aseguramiento_salud,porcentaje
+Bogotá,Trabajo infantil,Departamento,2021,0.4,trabajo_infantil,porcentaje
+Bogotá,Trabajo informal,Departamento,2021,55.8,trabajo_informal,porcentaje
+Bogotá,Analfabetismo,Departamento,2022,1.8,analfabetismo,porcentaje
+Bogotá,Bajo logro educativo,Departamento,2022,21.7,bajo_logro_educativo,porcentaje
+Bogotá,Barreras a servicios para cuidado de la primera infancia,Departamento,2022,5.7,cuidado_primera_infancia,porcentaje
+Bogotá,Barreras de acceso a servicios de salud,Departamento,2022,4.3,barreras_acceso_salud,porcentaje
+Bogotá,Desempleo de larga duración,Departamento,2022,12.1,desempleo_larga_duracion,porcentaje
+Bogotá,Hacinamiento crítico,Departamento,2022,5.8,hacinamiento_critico,porcentaje
+Bogotá,Inadecuada eliminación de excretas,Departamento,2022,0.7,excretas_inadecuadas,porcentaje
+Bogotá,Inasistencia escolar,Departamento,2022,1.3,inasistencia_escolar,porcentaje
+Bogotá,Material inadecuado de paredes exteriores,Departamento,2022,1.0,paredes_inadecuadas,porcentaje
+Bogotá,Material inadecuado de pisos,Departamento,2022,0.5,pisos_inadecuados,porcentaje
+Bogotá,Rezago escolar,Departamento,2022,18.8,rezago_escolar,porcentaje
+Bogotá,Sin acceso a fuente de agua mejorada,Departamento,2022,0.5,sin_agua_mejorada,porcentaje
+Bogotá,Sin aseguramiento en salud,Departamento,2022,13.1,sin_aseguramiento_salud,porcentaje
+Bogotá,Trabajo infantil,Departamento,2022,1.2,trabajo_infantil,porcentaje
+Bogotá,Trabajo informal,Departamento,2022,54.2,trabajo_informal,porcentaje
+Bogotá,Analfabetismo,Departamento,2023,1.9,analfabetismo,porcentaje
+Bogotá,Bajo logro educativo,Departamento,2023,20.6,bajo_logro_educativo,porcentaje
+Bogotá,Barreras a servicios para cuidado de la primera infancia,Departamento,2023,6.2,cuidado_primera_infancia,porcentaje
+Bogotá,Barreras de acceso a servicios de salud,Departamento,2023,1.5,barreras_acceso_salud,porcentaje
+Bogotá,Desempleo de larga duración,Departamento,2023,14.7,desempleo_larga_duracion,porcentaje
+Bogotá,Hacinamiento crítico,Departamento,2023,6.7,hacinamiento_critico,porcentaje
+Bogotá,Inadecuada eliminación de excretas,Departamento,2023,0.5,excretas_inadecuadas,porcentaje
+Bogotá,Inasistencia escolar,Departamento,2023,1.4,inasistencia_escolar,porcentaje
+Bogotá,Material inadecuado de paredes exteriores,Departamento,2023,0.3,paredes_inadecuadas,porcentaje
+Bogotá,Material inadecuado de pisos,Departamento,2023,0.1,pisos_inadecuados,porcentaje
+Bogotá,Rezago escolar,Departamento,2023,19.9,rezago_escolar,porcentaje
+Bogotá,Sin acceso a fuente de agua mejorada,Departamento,2023,0.6,sin_agua_mejorada,porcentaje
+Bogotá,Sin aseguramiento en salud,Departamento,2023,9.2,sin_aseguramiento_salud,porcentaje
+Bogotá,Trabajo infantil,Departamento,2023,0.7,trabajo_infantil,porcentaje
+Bogotá,Trabajo informal,Departamento,2023,53.3,trabajo_informal,porcentaje
+Bogotá,Analfabetismo,Departamento,2024,1.5,analfabetismo,porcentaje
+Bogotá,Bajo logro educativo,Departamento,2024,19.3,bajo_logro_educativo,porcentaje
+Bogotá,Barreras a servicios para cuidado de la primera infancia,Departamento,2024,5.3,cuidado_primera_infancia,porcentaje
+Bogotá,Barreras de acceso a servicios de salud,Departamento,2024,4.3,barreras_acceso_salud,porcentaje
+Bogotá,Desempleo de larga duración,Departamento,2024,13.9,desempleo_larga_duracion,porcentaje
+Bogotá,Hacinamiento crítico,Departamento,2024,3.9,hacinamiento_critico,porcentaje
+Bogotá,Inadecuada eliminación de excretas,Departamento,2024,0.5,excretas_inadecuadas,porcentaje
+Bogotá,Inasistencia escolar,Departamento,2024,0.6,inasistencia_escolar,porcentaje
+Bogotá,Material inadecuado de paredes exteriores,Departamento,2024,0.1,paredes_inadecuadas,porcentaje
+Bogotá,Material inadecuado de pisos,Departamento,2024,0.1,pisos_inadecuados,porcentaje
+Bogotá,Rezago escolar,Departamento,2024,17.5,rezago_escolar,porcentaje
+Bogotá,Sin acceso a fuente de agua mejorada,Departamento,2024,0.1,sin_agua_mejorada,porcentaje
+Bogotá,Sin aseguramiento en salud,Departamento,2024,8.4,sin_aseguramiento_salud,porcentaje
+Bogotá,Trabajo infantil,Departamento,2024,0.5,trabajo_infantil,porcentaje
+Bogotá,Trabajo informal,Departamento,2024,51.3,trabajo_informal,porcentaje
